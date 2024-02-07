@@ -38,7 +38,7 @@ def input_image_setup(uploaded_file):
 st.set_page_config(page_title="Consumer Awareness App")
 
 st.header("Consumer Awareness App")
-input=st.text_input("Input Prompt: ",key="input")
+input=st.text_input("wish to know something else? ",key="input")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
 if uploaded_file is not None:
@@ -57,6 +57,7 @@ your task is to analyze a food image and provide the following information in th
 Item 1 - 100 calories
 Item 2 - 150 calories\n...\n
 Additionally, you are also an expert in recognizing ingredients used in packaged food items. For each ingredient, you need to list its effect on human health and potential side effects  and the common terms of each ingrdient in the format mentioned above.\nPlease provide the required information based on the given food image.
+and also give an score out of 5 based on the ingreidents and thier overall effect on health
 """
 
 ## If submit button is clicked
