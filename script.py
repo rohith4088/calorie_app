@@ -49,17 +49,14 @@ if uploaded_file is not None:
 submit=st.button("Sumbit to get calorie information and interdient descrpition")
 
 input_prompt="""
-You are an expert nutritionist where you need to see the food items from the image
-               and calculate the total calories, also provide the details of every food items with calories intake
-               is below format
-
-               1. Item 1 - no of calories
-               2. Item 2 - no of calories
-               ----
-               ----
-               you are also an expert in recognising the ingredients used in packaged food items where you need to list every ingreident used in the food product and give its effect on the human health and potential side effects of each ingredient in the format as mentioned above
-
-
+As an expert nutritionist, 
+your task is to analyze a food image and provide the following information in the specified format:
+\n1.Calculate the total calories of the food items.
+\n2.Provide details of each food item with their respective calorie intake.
+\nExample format: 
+Item 1 - 100 calories
+Item 2 - 150 calories\n...\n
+Additionally, you are also an expert in recognizing ingredients used in packaged food items. For each ingredient, you need to list its effect on human health and potential side effects  and the common terms of each ingrdient in the format mentioned above.\nPlease provide the required information based on the given food image.
 """
 
 ## If submit button is clicked
