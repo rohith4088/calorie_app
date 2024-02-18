@@ -6,7 +6,7 @@
   "depends": [
     "libzlib >=1.2.13,<1.3.0a0"
   ],
-  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tk-8.6.13-h5083fa2_1",
+  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/tk-8.6.13-h5083fa2_1",
   "features": "",
   "files": [
     "bin/sqlite3_analyzer",
@@ -548,12 +548,12 @@
   "fn": "tk-8.6.13-h5083fa2_1.conda",
   "license": "TCL",
   "link": {
-    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tk-8.6.13-h5083fa2_1",
+    "source": "/Users/rohithr/miniforge3/pkgs/tk-8.6.13-h5083fa2_1",
     "type": 1
   },
   "md5": "b50a57ba89c32b62428b71a875291c9b",
   "name": "tk",
-  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tk-8.6.13-h5083fa2_1.conda",
+  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/tk-8.6.13-h5083fa2_1.conda",
   "paths_data": {
     "paths": [
       {

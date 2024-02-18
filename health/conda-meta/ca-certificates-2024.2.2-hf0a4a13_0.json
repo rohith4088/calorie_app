@@ -4,7 +4,7 @@
   "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/ca-certificates-2024.2.2-hf0a4a13_0",
+  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/ca-certificates-2024.2.2-hf0a4a13_0",
   "features": "",
   "files": [
     "ssl/cacert.pem",
@@ -13,12 +13,12 @@
   "fn": "ca-certificates-2024.2.2-hf0a4a13_0.conda",
   "license": "ISC",
   "link": {
-    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/ca-certificates-2024.2.2-hf0a4a13_0",
+    "source": "/Users/rohithr/miniforge3/pkgs/ca-certificates-2024.2.2-hf0a4a13_0",
     "type": 1
   },
   "md5": "fb416a1795f18dcc5a038bc2dc54edf9",
   "name": "ca-certificates",
-  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/ca-certificates-2024.2.2-hf0a4a13_0.conda",
+  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/ca-certificates-2024.2.2-hf0a4a13_0.conda",
   "paths_data": {
     "paths": [
       {

@@ -6,7 +6,7 @@
     "zlib 1.2.13 *_5"
   ],
   "depends": [],
-  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libzlib-1.2.13-h53f4e23_5",
+  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/libzlib-1.2.13-h53f4e23_5",
   "features": "",
   "files": [
     "lib/libz.1.2.13.dylib",
@@ -15,12 +15,12 @@
   "fn": "libzlib-1.2.13-h53f4e23_5.conda",
   "license": "Zlib",
   "link": {
-    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libzlib-1.2.13-h53f4e23_5",
+    "source": "/Users/rohithr/miniforge3/pkgs/libzlib-1.2.13-h53f4e23_5",
     "type": 1
   },
   "md5": "1a47f5236db2e06a320ffa0392f81bd8",
   "name": "libzlib",
-  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libzlib-1.2.13-h53f4e23_5.conda",
+  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/libzlib-1.2.13-h53f4e23_5.conda",
   "paths_data": {
     "paths": [
       {

@@ -9,7 +9,7 @@
     "ncurses >=6.4,<7.0a0",
     "readline >=8.2,<9.0a0"
   ],
-  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/sqlite-3.45.1-hf2abe2d_0",
+  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/sqlite-3.45.1-hf2abe2d_0",
   "features": "",
   "files": [
     "bin/sqlite3"
@@ -17,12 +17,12 @@
   "fn": "sqlite-3.45.1-hf2abe2d_0.conda",
   "license": "Unlicense",
   "link": {
-    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/sqlite-3.45.1-hf2abe2d_0",
+    "source": "/Users/rohithr/miniforge3/pkgs/sqlite-3.45.1-hf2abe2d_0",
     "type": 1
   },
   "md5": "58918f7a593a143c2f305b832c8802f4",
   "name": "sqlite",
-  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/sqlite-3.45.1-hf2abe2d_0.conda",
+  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/sqlite-3.45.1-hf2abe2d_0.conda",
   "paths_data": {
     "paths": [
       {

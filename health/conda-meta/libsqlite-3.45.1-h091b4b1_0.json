@@ -6,7 +6,7 @@
   "depends": [
     "libzlib >=1.2.13,<1.3.0a0"
   ],
-  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libsqlite-3.45.1-h091b4b1_0",
+  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/libsqlite-3.45.1-h091b4b1_0",
   "features": "",
   "files": [
     "include/sqlite3.h",
@@ -18,12 +18,12 @@
   "fn": "libsqlite-3.45.1-h091b4b1_0.conda",
   "license": "Unlicense",
   "link": {
-    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libsqlite-3.45.1-h091b4b1_0",
+    "source": "/Users/rohithr/miniforge3/pkgs/libsqlite-3.45.1-h091b4b1_0",
     "type": 1
   },
   "md5": "a153a40a253962373b5330eb9d182da9",
   "name": "libsqlite",
-  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libsqlite-3.45.1-h091b4b1_0.conda",
+  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/libsqlite-3.45.1-h091b4b1_0.conda",
   "paths_data": {
     "paths": [
       {

@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.7"
   ],
-  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/setuptools-69.1.0-pyhd8ed1ab_0",
+  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/setuptools-69.1.0-pyhd8ed1ab_0",
   "features": "",
   "files": [
     "lib/python3.10/site-packages/_distutils_hack/__init__.py",
@@ -492,13 +492,13 @@
   "fn": "setuptools-69.1.0-pyhd8ed1ab_0.conda",
   "license": "MIT",
   "link": {
-    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/setuptools-69.1.0-pyhd8ed1ab_0",
+    "source": "/Users/rohithr/miniforge3/pkgs/setuptools-69.1.0-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "6df2be294365eca602cabb4f04a6efe2",
   "name": "setuptools",
   "noarch": "python",
-  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/setuptools-69.1.0-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/setuptools-69.1.0-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

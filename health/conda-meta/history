@@ -1,5 +1,5 @@
-==> 2024-02-18 20:52:07 <==
-# cmd: /opt/homebrew/Caskroom/miniforge/base/bin/conda create -p health python==3.10
+==> 2024-02-18 23:39:17 <==
+# cmd: /Users/rohithr/miniforge3/bin/conda create -p health python==3.10
 # conda version: 23.11.0
 +conda-forge/noarch::pip-24.0-pyhd8ed1ab_0
 +conda-forge/noarch::setuptools-69.1.0-pyhd8ed1ab_0

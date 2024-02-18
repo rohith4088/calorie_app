@@ -6,7 +6,7 @@
   "depends": [
     "ncurses >=6.3,<7.0a0"
   ],
-  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/readline-8.2-h92ec313_1",
+  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/readline-8.2-h92ec313_1",
   "features": "",
   "files": [
     "include/readline/chardefs.h",
@@ -37,12 +37,12 @@
   "fn": "readline-8.2-h92ec313_1.conda",
   "license": "GPL-3.0-only",
   "link": {
-    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/readline-8.2-h92ec313_1",
+    "source": "/Users/rohithr/miniforge3/pkgs/readline-8.2-h92ec313_1",
     "type": 1
   },
   "md5": "8cbb776a2f641b943d413b3e19df71f4",
   "name": "readline",
-  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/readline-8.2-h92ec313_1.conda",
+  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/readline-8.2-h92ec313_1.conda",
   "paths_data": {
     "paths": [
       {

@@ -4,7 +4,7 @@
   "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/bzip2-1.0.8-h93a5062_5",
+  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/bzip2-1.0.8-h93a5062_5",
   "features": "",
   "files": [
     "bin/bunzip2",
@@ -34,12 +34,12 @@
   "fn": "bzip2-1.0.8-h93a5062_5.conda",
   "license": "bzip2-1.0.6",
   "link": {
-    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/bzip2-1.0.8-h93a5062_5",
+    "source": "/Users/rohithr/miniforge3/pkgs/bzip2-1.0.8-h93a5062_5",
     "type": 1
   },
   "md5": "1bbc659ca658bfd49a481b5ef7a0f40f",
   "name": "bzip2",
-  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/bzip2-1.0.8-h93a5062_5.conda",
+  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/bzip2-1.0.8-h93a5062_5.conda",
   "paths_data": {
     "paths": [
       {

@@ -8,7 +8,7 @@
     "setuptools",
     "wheel"
   ],
-  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/pip-24.0-pyhd8ed1ab_0",
+  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/pip-24.0-pyhd8ed1ab_0",
   "features": "",
   "files": [
     "lib/python3.10/site-packages/pip-24.0-py3.12.egg-info/PKG-INFO",
@@ -1034,13 +1034,13 @@
   "fn": "pip-24.0-pyhd8ed1ab_0.conda",
   "license": "MIT",
   "link": {
-    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/pip-24.0-pyhd8ed1ab_0",
+    "source": "/Users/rohithr/miniforge3/pkgs/pip-24.0-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "f586ac1e56c8638b64f9c8122a7b8a67",
   "name": "pip",
   "noarch": "python",
-  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/pip-24.0-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/pip-24.0-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [

@@ -4,7 +4,7 @@
   "channel": "https://conda.anaconda.org/conda-forge/noarch",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tzdata-2024a-h0c530f3_0",
+  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/tzdata-2024a-h0c530f3_0",
   "features": "",
   "files": [
     "share/zoneinfo/Africa/Abidjan",
@@ -615,13 +615,13 @@
   "fn": "tzdata-2024a-h0c530f3_0.conda",
   "license": "LicenseRef-Public-Domain",
   "link": {
-    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tzdata-2024a-h0c530f3_0",
+    "source": "/Users/rohithr/miniforge3/pkgs/tzdata-2024a-h0c530f3_0",
     "type": 1
   },
   "md5": "161081fc7cec0bfda0d86d7cb595f8d8",
   "name": "tzdata",
   "noarch": "generic",
-  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tzdata-2024a-h0c530f3_0.conda",
+  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/tzdata-2024a-h0c530f3_0.conda",
   "package_type": "noarch_generic",
   "paths_data": {
     "paths": [
