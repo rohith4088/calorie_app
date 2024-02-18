@@ -4,7 +4,7 @@
   "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/xz-5.2.6-h57fd34a_0",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/xz-5.2.6-h57fd34a_0",
   "features": "",
   "files": [
     "bin/lzcat",
@@ -94,12 +94,12 @@
   "fn": "xz-5.2.6-h57fd34a_0.tar.bz2",
   "license": "LGPL-2.1 and GPL-2.0",
   "link": {
-    "source": "/Users/rohithr/miniforge3/pkgs/xz-5.2.6-h57fd34a_0",
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/xz-5.2.6-h57fd34a_0",
     "type": 1
   },
   "md5": "39c6b54e94014701dd157f4f576ed211",
   "name": "xz",
-  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/xz-5.2.6-h57fd34a_0.tar.bz2",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/xz-5.2.6-h57fd34a_0.tar.bz2",
   "paths_data": {
     "paths": [
       {
@@ -660,7 +660,7 @@
   "sha256": "59d78af0c3e071021cfe82dc40134c19dab8cdf804324b62940f5c8cd71803ec",
   "size": 235693,
   "subdir": "osx-arm64",
-  "timestamp": 1660346961024,
+  "timestamp": 1660346961000,
   "track_features": "",
   "url": "https://conda.anaconda.org/conda-forge/osx-arm64/xz-5.2.6-h57fd34a_0.tar.bz2",
   "version": "5.2.6"

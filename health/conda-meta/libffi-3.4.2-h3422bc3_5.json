@@ -4,7 +4,7 @@
   "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
   "constrains": [],
   "depends": [],
-  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/libffi-3.4.2-h3422bc3_5",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libffi-3.4.2-h3422bc3_5",
   "features": "",
   "files": [
     "include/ffi.h",
@@ -21,14 +21,13 @@
   ],
   "fn": "libffi-3.4.2-h3422bc3_5.tar.bz2",
   "license": "MIT",
-  "license_family": "MIT",
   "link": {
-    "source": "/Users/rohithr/miniforge3/pkgs/libffi-3.4.2-h3422bc3_5",
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libffi-3.4.2-h3422bc3_5",
     "type": 1
   },
   "md5": "086914b672be056eb70fd4285b6783b6",
   "name": "libffi",
-  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/libffi-3.4.2-h3422bc3_5.tar.bz2",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libffi-3.4.2-h3422bc3_5.tar.bz2",
   "paths_data": {
     "paths": [
       {
@@ -51,7 +50,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/libffi_1636488416706/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "4b9d295a8ad6318f75f093b4d9e9e10aa55928e1b8154e6faacb59dc063d80a7",
-        "sha256_in_prefix": "b05cf712cd8cd28134eb8c189f4f2b86327e8d15de40fd5b5b4e017bb9a03496",
+        "sha256_in_prefix": "9265ef681f503e491ece8b5e0066e5759b92e4ed5da1c3760de6cd773b53fabc",
         "size_in_bytes": 120496
       },
       {
@@ -118,7 +117,7 @@
   "sha256": "41b3d13efb775e340e4dba549ab5c029611ea6918703096b2eaa9c015c0750ca",
   "size": 39020,
   "subdir": "osx-arm64",
-  "timestamp": 1636488587153,
+  "timestamp": 1636488587000,
   "track_features": "",
   "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libffi-3.4.2-h3422bc3_5.tar.bz2",
   "version": "3.4.2"

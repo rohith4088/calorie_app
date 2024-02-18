@@ -8,7 +8,7 @@
   "depends": [
     "ca-certificates"
   ],
-  "extracted_package_dir": "/Users/rohithr/miniforge3/pkgs/openssl-3.2.1-h0d3ecfb_0",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/openssl-3.2.1-h0d3ecfb_0",
   "features": "",
   "files": [
     "bin/c_rehash",
@@ -169,14 +169,13 @@
   ],
   "fn": "openssl-3.2.1-h0d3ecfb_0.conda",
   "license": "Apache-2.0",
-  "license_family": "Apache",
   "link": {
-    "source": "/Users/rohithr/miniforge3/pkgs/openssl-3.2.1-h0d3ecfb_0",
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/openssl-3.2.1-h0d3ecfb_0",
     "type": 1
   },
   "md5": "421cc6e8715447b73c2c57dcf78cb9d2",
   "name": "openssl",
-  "package_tarball_full_path": "/Users/rohithr/miniforge3/pkgs/openssl-3.2.1-h0d3ecfb_0.conda",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/openssl-3.2.1-h0d3ecfb_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -1174,7 +1173,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/openssl_split_1706634919261/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
         "sha256": "9c9166e1fc4d1075cf052f35b51a3105241025d6fcfa8977be494b8d7eb34f1b",
-        "sha256_in_prefix": "e605a9f1edc79d3deaf0b5c61431f869b4cd24044d40aba5fd32736190eaec71",
+        "sha256_in_prefix": "21c9506bca85c7271fd95458a869e9df577a82e5a711f229099c49f2ad7f596c",
         "size_in_bytes": 4381536
       },
       {
@@ -1183,7 +1182,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/openssl_split_1706634919261/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
         "sha256": "2a28c58c95526727868609e5d935c70f3e435b05c8b2ccce2b1aad8ce34ca15e",
-        "sha256_in_prefix": "bb8f9628c11e775ded5daf7408e5afdadeebb1dddb9d78866500d82799e9a292",
+        "sha256_in_prefix": "19f3954064ed58db602c944434de90a08fc819911ec59c3501443fd8d07cfb5b",
         "size_in_bytes": 4381520
       },
       {
@@ -1282,7 +1281,7 @@
   "sha256": "13663fcd4abc8681b31ccbad39800fee2127cb6159b51a989ed48a816af36cf5",
   "size": 2862719,
   "subdir": "osx-arm64",
-  "timestamp": 1706635779319,
+  "timestamp": 1706635779000,
   "track_features": "",
   "url": "https://conda.anaconda.org/conda-forge/osx-arm64/openssl-3.2.1-h0d3ecfb_0.conda",
   "version": "3.2.1"
