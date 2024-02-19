@@ -35,10 +35,10 @@ def input_image_setup(uploaded_file):
     
 ##initialize our streamlit app
 
-st.set_page_config(page_title="Consumer Awareness App")
+st.set_page_config(page_title="Gemini Health App")
 
-st.header("Consumer Awareness App")
-input=st.text_input("wish to know something else? ",key="input")
+st.header("Gemini Health App")
+input=st.text_input("Input Prompt: ",key="input")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
 if uploaded_file is not None:
@@ -46,18 +46,19 @@ if uploaded_file is not None:
     st.image(image, caption="Uploaded Image.", use_column_width=True)
 
 
-submit=st.button("Sumbit to get calorie information and interdient descrpition")
+submit=st.button("Tell me the total calories")
 
 input_prompt="""
-As an expert nutritionist, 
-your task is to analyze a food image and provide the following information in the specified format:
-\n1.Calculate the total calories of the food items.
-\n2.Provide details of each food item with their respective calorie intake.
-\nExample format: 
-Item 1 - 100 calories
-Item 2 - 150 calories\n...\n
-Additionally, you are also an expert in recognizing ingredients used in packaged food items. For each ingredient, you need to list its effect on human health and potential side effects  and the common terms of each ingrdient in the format mentioned above.\nPlease provide the required information based on the given food image.
-and also give an score out of 5 based on the ingreidents and thier overall effect on health
+You are an expert in nutritionist where you need to see the food items from the image
+               and calculate the total calories, also provide the details of every food items with calories intake
+               is below format
+
+               1. Item 1 - no of calories
+               2. Item 2 - no of calories
+               ----
+               ----
+
+
 """
 
 ## If submit button is clicked
@@ -67,3 +68,4 @@ if submit:
     response=get_gemini_repsonse(input_prompt,image_data,input)
     st.subheader("The Response is")
     st.write(response)
+
